@@ -1,0 +1,14 @@
+C:\LTIMindtree\demoappone\bin\Debug\net8.0\demoappone.exe
+C:\LTIMindtree\demoappone\bin\Debug\net8.0\demoappone.deps.json
+C:\LTIMindtree\demoappone\bin\Debug\net8.0\demoappone.runtimeconfig.json
+C:\LTIMindtree\demoappone\bin\Debug\net8.0\demoappone.dll
+C:\LTIMindtree\demoappone\bin\Debug\net8.0\demoappone.pdb
+C:\LTIMindtree\demoappone\obj\Debug\net8.0\demoappone.GeneratedMSBuildEditorConfig.editorconfig
+C:\LTIMindtree\demoappone\obj\Debug\net8.0\demoappone.AssemblyInfoInputs.cache
+C:\LTIMindtree\demoappone\obj\Debug\net8.0\demoappone.AssemblyInfo.cs
+C:\LTIMindtree\demoappone\obj\Debug\net8.0\demoappone.csproj.CoreCompileInputs.cache
+C:\LTIMindtree\demoappone\obj\Debug\net8.0\demoappone.dll
+C:\LTIMindtree\demoappone\obj\Debug\net8.0\refint\demoappone.dll
+C:\LTIMindtree\demoappone\obj\Debug\net8.0\demoappone.pdb
+C:\LTIMindtree\demoappone\obj\Debug\net8.0\demoappone.genruntimeconfig.cache
+C:\LTIMindtree\demoappone\obj\Debug\net8.0\ref\demoappone.dll
